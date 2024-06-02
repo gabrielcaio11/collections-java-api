@@ -3,9 +3,6 @@ package map.operacoesBasicas;
 import java.util.HashMap;
 import java.util.Map;
 
-
-import set.pesquisa.Contato;
-
 public class AgendaContatos {
 	private Map<String, Integer> agendaContatosMap;
 
